@@ -23,7 +23,12 @@ print(paste("Caroline!"))
 
 ```
 
-Hello Hello
+New analysis
+
+```{r}
+print(paste("Caroline!"))
+print(paste("Caroline!"))
+```
 
 ## Kathrine
 
