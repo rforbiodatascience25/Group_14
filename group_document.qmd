@@ -23,8 +23,6 @@ print(paste("Caroline!"))
 
 ```
 
-New analysis
-
 ## Kathrine
 
 ```{r}
