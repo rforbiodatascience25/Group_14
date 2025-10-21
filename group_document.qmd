@@ -10,6 +10,11 @@ editor: visual
 
 ## Caroline
 
+```{r}
+print(paste("Caroline!"))
+
+```
+
 ## Kathrine
 
 # 
