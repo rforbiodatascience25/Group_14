@@ -37,6 +37,13 @@ print(paste("Caroline!"))
 
 ```
 
+New analysis
+
+```{r}
+print(paste("Caroline!"))
+print(paste("Caroline!"))
+```
+
 ## Kathrine
 
 ```{r}
