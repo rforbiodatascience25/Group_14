@@ -8,6 +8,10 @@ editor: visual
 
 Hello
 
+### New Analysis
+
+blabla
+
 ## Helene
 
 ```{r}
@@ -24,5 +28,11 @@ print(paste("Caroline!"))
 ```
 
 ## Kathrine
+
+```{r}
+2+2
+3+3
+4+4
+```
 
 # 
