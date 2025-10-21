@@ -33,7 +33,7 @@ print(paste("Caroline!"))
 
 ## New feature
 
-Helluuu
+Helluuuu
 
 ```{r}
 13+3
