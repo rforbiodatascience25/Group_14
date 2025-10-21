@@ -23,7 +23,7 @@ print(paste("Caroline!"))
 
 ```
 
-Hello
+Hello Hello
 
 ## Kathrine
 
