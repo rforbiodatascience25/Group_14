@@ -25,6 +25,7 @@ print(paste("Caroline!"))
 
 ```{r}
 2+2
+3+3
 ```
 
 # 
