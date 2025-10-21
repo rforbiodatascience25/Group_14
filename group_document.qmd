@@ -8,12 +8,26 @@ editor: visual
 
 Hello
 
+### New Analysis
+
+blabla
+
 ## Helene
 
 ```{r}
 library('tidyverse')
 x <-c(1,2,3,4,5)
 y <-c(2,4,6,8,10)
+```
+
+#### New feature
+
+n
+
+#### new new feature
+
+```{r}
+print("hello")
 ```
 
 ## Caroline
@@ -23,18 +37,17 @@ print(paste("Caroline!"))
 
 ```
 
+New analysis
+
+```{r}
+print(paste("Caroline!"))
+print(paste("Caroline!"))
+```
+
 ## Kathrine
 
 ```{r}
 2+2
 3+3
 4+4
-```
-
-## New feature
-
-Helluuuuuuu
-
-```{r}
-13+3
 ```
